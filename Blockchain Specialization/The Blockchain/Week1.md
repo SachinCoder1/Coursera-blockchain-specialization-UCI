@@ -1,4 +1,4 @@
-# Foundations of Blockchain and Digital Currencies
+# Foundations of Blockchain and Digital Currencies - Week 1
 
 
 ### 1. Which one of the following actions involving a digital camera is associated with the APPLICATION layer?
