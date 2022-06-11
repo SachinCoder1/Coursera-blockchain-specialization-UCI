@@ -2,14 +2,14 @@
 
 **Link to Quizes and assignment answers -> https://github.com/SachinCoder1/Coursera-blockchain-specialization-UCI**
 
-Assignments and Quizes - Coursera BlockChain Specialization By University of California - Irvine
+Assignments and Quizes - Coursera BlockChain Specialization By **University of California - Irvine**
 
 These quizes are from blockchain course from UCI - Univerisity of california from coursera. The course link is -> https://www.coursera.org/specializations/uci-blockchain. It's an 4 Months course. 
 
 
 
 
-What you will learn in this course :-
+### What you will learn in this course :-
 1. Gain a fundamental understanding of blockchain technology and its components. 
 2. Learn how such applications as cryptofinance makes use of the blockchain for decentralized, peer-to-peer transaction processing. 
 3. Apply your knowledge of blockchain technology to enhance your trust and confidence in cryptocurrency trading and other situations where the blockchain is used.
