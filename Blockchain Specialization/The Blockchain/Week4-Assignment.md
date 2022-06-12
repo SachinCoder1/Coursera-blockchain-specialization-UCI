@@ -7,16 +7,16 @@ Step 1: Fill in the third column with today’s figures – how much would you g
 
 Answer 1: 
 
-Currency                         Amount On              Amount          Gain/loss in
-                                 1/2/2018               Today           Dollars
+    Currency                         Amount On              Amount          Gain/loss in
+                                     1/2/2018               Today           Dollars
 
-Euro                             830.0027               878.79           $56 ( Gain )
-Japanese Yen                     112,188.8473           107338.50        $48 ( Loss )
-Chinese Yuan                     6493.0059              6991.35          $72 ( Gain )
-Indian Rupee                     63,460.8067            75178.10         $157 ( Gain )
-Bitcoin Cash                     2326.8600              4.1              $515192 ( Loss )
-Gold (In Ounces)                 0.7591                 0.5566           $350 ( Loss )
-Total Gained Loss ($5,15,332)
+    Euro                             830.0027               878.79           $56 ( Gain )
+    Japanese Yen                     112,188.8473           107338.50        $48 ( Loss )
+    Chinese Yuan                     6493.0059              6991.35          $72 ( Gain )
+    Indian Rupee                     63,460.8067            75178.10         $157 ( Gain )
+    Bitcoin Cash                     2326.8600              4.1              $515192 ( Loss )
+    Gold (In Ounces)                 0.7591                 0.5566           $350 ( Loss )
+    Total Gained Loss ($5,15,332)
 
 
 
