@@ -29,6 +29,6 @@ Step 2: Now, answer the following questions, and allow someone in your class to 
 
 Answer 2: 
 
-1. We lose money.
-2. The most profile is in the Indian Rupee.
-3. I  will not hold the blockchain cash over a period of time because it has dropped very much and i would like to see it more before thinking to hold it.
+        1. We lose money.
+        2. The most profile is in the Indian Rupee.
+        3. I  will not hold the blockchain cash over a period of time because it has dropped very much and i would like to see it more before thinking to hold it.
